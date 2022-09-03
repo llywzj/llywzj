@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**llywzj/llywzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**llywzj/llywzj** is a ✨ _sp[README.md](https://github.com/llywzj/llywzj/files/9482008/README.md)
+ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
